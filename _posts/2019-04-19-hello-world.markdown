@@ -1,20 +1,22 @@
 ---
-title:  "Meu primeiro post"
-subtitle: "Hello World"
+title:  "Eu só preciso ser."
+subtitle: "Pensamentos"
 author: "Letícia Silva"
 avatar: "img/authors/leticia.jpg"
-image: "img/e.jpg"
-date:   2019-04-19 12:12:12
+image: "img/texto1.jpg"
+date:   2019-04-20 01:15:12
 ---
 
-### Dolor sit amet?
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vestibulum non mi non pulvinar. Donec tempus risus vel ex fringilla tempor. Vivamus pharetra non mauris quis fermentum. Vestibulum sed maximus elit, sit amet suscipit orci. Morbi at enim at libero dignissim egestas vel ac nisi. Etiam at lectus a arcu sodales consequat. Aliquam consequat ligula sed purus tincidunt, a ultrices nibh dapibus. Phasellus convallis ipsum nec semper ultricies. In facilisis lacus velit, sit amet lacinia velit blandit id. Nullam ut magna erat. Aliquam sit amet dapibus odio, aliquet tempus tortor. Donec in nisi massa.
+#### Do alto das inseguranças impostas pela sociedade, dizendo quem, o que e como deveria, prefiro somente existir. Do meu jeito, como eu quero, sendo eu mesma.
 
-### Aliquam suscipit.
-Cras eget nisl accumsan, porta nisl in, egestas sapien. Vestibulum gravida nulla sed facilisis tempor. Suspendisse maximus nisi sit amet velit sodales fringilla. Vivamus luctus risus eget dui consectetur porttitor. Maecenas ut ultrices orci. Maecenas mollis est eu sodales mollis. Nulla facilisi. Suspendisse eros arcu, elementum sed sem eu, pharetra rhoncus odio. Proin nec tincidunt velit. Cras nisl augue, faucibus sed mauris in, vestibulum mollis nisl. Nam id libero ultrices, consequat ex vitae, convallis nulla.
+De um tempo pra cá, tenho observado o quanto as pessoas ao meu redor me idealizam. As que pensam que só estudo e não tenho vida social, as que gostariam que realmente fosse assim (alô, pai!), as que me subestimam pela “pouca idade e experiência de vida” (mas você só tem 21 anos, como pode?!), as que julgam minhas reflexões sem saber da minha história, e quem nunca sequer falou comigo, mas se sente no direito de opinar sobre minha vida (porque né, ela virou um Black Mirror Bandersnatch e não estou sabendo).
 
-Suspendisse lorem odio, blandit at nisl quis, hendrerit tempus tellus. Donec eget leo quis nisi vulputate consectetur. Praesent dignissim enim elit, congue luctus nisl cursus at. Sed rutrum molestie risus. Donec vulputate gravida accumsan. Vivamus tempus ullamcorper eleifend. Sed sagittis mi ut dolor tincidunt, ac rutrum nisi commodo.
+Sempre levei em consideração a opinião dos outros. O que pensavam, se concordavam, se achavam legal uma determinada coisa. E fui compreendendo que não importa a opinião de pessoas que não fazem a diferença no meu mundo e são indiferentes às minhas lutas. O ser humano tem uma mania de valorizar quem não merece, né? E a explicação que dão pra isso é “você passou a vida recebendo migalhas, e acaba aprendendo a se contentar com elas”. APENAS PARE!
 
-Fusce non elit in diam rutrum vestibulum. Donec vitae elementum erat. Praesent elementum eget justo at bibendum. Fusce interdum diam lorem, ut placerat elit pretium quis. Quisque eu urna at quam commodo sagittis. Etiam posuere convallis tincidunt. Phasellus vitae ligula neque. Vivamus a purus at dolor iaculis placerat. Curabitur convallis eu lacus congue sagittis.
+Se tu quer viajar/mudar de carreira/começar uma faculdade de música/parar de comer carne/raspar a cabeça/fazer qualquer coisa que as pessoas normalmente criticam, aí vai a dica: Faz sentido pra ti? Se sim, vai em frente! Eu acredito que, para fazer algo, tem que ter sentido para alguém. E esse alguém é, e apenas precisa ser você.  
+É óbvio que listei coisas extremamente variadas e que tem todo um propósito para as pessoas que praticam essa ação, mas o objetivo é mostrar que, para acontecer, basta você querer primeiro. E não pense que isso é pouco não, é o passo mais importante! Porque críticas sempre vão existir. O importante é batalhar muito e ir sempre atrás do que você deseja.
 
-Aliquam suscipit fermentum mauris a accumsan. In facilisis, mauris quis pulvinar tempus, turpis sapien sodales nibh, nec feugiat augue est quis nisi. Fusce eget odio feugiat, luctus quam et, dapibus nulla. Sed ornare lacus non libero lacinia pretium. In eu dui vitae purus euismod feugiat ac ac est. Morbi vitae pretium lorem, non eleifend felis. Nullam at massa feugiat, rutrum elit at, semper lacus. Etiam vel rutrum felis. Nullam quis auctor lorem, et tempor arcu.
+Não importa quão louca seja a tua vontade, ou o quanto as pessoas te olham “torto” por isso. A escolha é só sua, e você deve respeitar e corresponder ao seus desejos sempre que possível. Se arrisca! Vai, faz, se entrega, te apropria do que faz sentido pra você. Só não deixe que a sua vida toque uma trilha musical da qual você não faz parte.
+
+
+##### O ator/atriz principal é você. Lembre-se sempre disso :)
