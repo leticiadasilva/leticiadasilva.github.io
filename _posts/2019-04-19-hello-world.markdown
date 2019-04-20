@@ -7,7 +7,7 @@ image: "img/texto1.jpg"
 date:   2019-04-20 01:15:12
 ---
 
-#### Do alto das inseguranças impostas pela sociedade, dizendo quem, o que e como deveria, prefiro somente existir. Do meu jeito, como eu quero, sendo eu mesma. ####
+**Do alto das inseguranças impostas pela sociedade, dizendo quem, o que e como deveria, prefiro somente existir. Do meu jeito, como eu quero, sendo eu mesma.**
 
 De um tempo pra cá, tenho observado o quanto as pessoas ao meu redor me idealizam. As que pensam que só estudo e não tenho vida social, as que gostariam que realmente fosse assim (alô, pai!), as que me subestimam pela “pouca idade e experiência de vida” (mas você só tem 21 anos, como pode?!), as que julgam minhas reflexões sem saber da minha história, e quem nunca sequer falou comigo, mas se sente no direito de opinar sobre minha vida (porque né, ela virou um Black Mirror Bandersnatch e não estou sabendo).
 
