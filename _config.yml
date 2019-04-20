@@ -1,0 +1,7 @@
+# Site settings
+title: Letícia Silva
+description: Blog onde compartilho meus pensamentos, descobertas, comunidades de TI e tecnologia em geral.
+keywords: TI, woman, Tecnologia, Data Science, Comunidade
+author: Letícia Silva
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
