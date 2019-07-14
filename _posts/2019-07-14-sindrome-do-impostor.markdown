@@ -3,7 +3,7 @@ title:  "Síndrome do Impostor: O que eu tenho a ver com isso?"
 subtitle: "Pensamentos"
 author: "Letícia Silva"
 avatar: "img/authors/leticia.jpg"
-image: "texto2.jpg"
+image: "img/texto3.jpg"
 date:   2019-07-14 05:02:36
 ---
 
