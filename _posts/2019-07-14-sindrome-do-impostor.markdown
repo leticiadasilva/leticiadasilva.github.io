@@ -1,5 +1,5 @@
 ---
-title:  Síndrome do Impostor: "O que eu tenho a ver com isso?"
+title:  "Síndrome do Impostor: O que eu tenho a ver com isso?"
 subtitle: "Pensamentos"
 author: "Letícia Silva"
 avatar: "img/authors/leticia.jpg"
