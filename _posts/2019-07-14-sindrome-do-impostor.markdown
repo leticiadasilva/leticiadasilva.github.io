@@ -3,11 +3,13 @@ title:  "Síndrome do Impostor: O que eu tenho a ver com isso?"
 subtitle: "Pensamentos"
 author: "Letícia Silva"
 avatar: "img/authors/leticia.jpg"
-image: "img/texto3.jpg"
+image: "img/texto2.jpg"
 date:   2019-07-14 05:02:36
 ---
 
-> Nada será suficiente até que você não seja para si mesmo.   
+> Nada será suficiente até que você não seja para si mesmo.   ]
+
+
 
 Cercados por uma sociedade que cultua descaradamente o sucesso, produtividade e resultado, vivemos a um passo de cair num precipício que não tem formato, mas é profundo. E cada vez se torna mais complexo sair dele.  
 
