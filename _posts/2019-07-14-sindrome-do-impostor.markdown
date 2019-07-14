@@ -7,9 +7,7 @@ image: "img/texto2.jpg"
 date:   2019-07-14 05:02:36
 ---
 
-> Nada será suficiente até que você não seja para si mesmo.   ]
-
-
+**Nada será suficiente até que você não seja para si mesmo.**  
 
 Cercados por uma sociedade que cultua descaradamente o sucesso, produtividade e resultado, vivemos a um passo de cair num precipício que não tem formato, mas é profundo. E cada vez se torna mais complexo sair dele.  
 
@@ -18,17 +16,17 @@ Síndrome do Impostor consiste em se auto sabotar para acreditar que não é cap
 E nós, humanos, passamos por essa descrença todos os dias. Seja na escola, trabalho, ou até no ambiente familiar, somos desacreditados de poder conquistar algo, por n motivos:  
         
         
-* As pessoas que estão ali podem não torcer para que você vá bem em algo por isso influenciar diretamente na forma como elas se enxergam;
+    * As pessoas que estão ali podem não torcer para que você vá bem em algo por isso influenciar diretamente na forma como elas se enxergam;
 
-* Elas estão cansadas e acreditam que nada pode melhorar, e acabam sendo pessimistas contigo;
+    * Elas estão cansadas e acreditam que nada pode melhorar, e acabam sendo pessimistas contigo;
 
-* Têm medo que você se machuque/decepcione (pais normalmente se enquadram aqui);
+    * Têm medo que você se machuque/decepcione (pais normalmente se enquadram aqui);
 
-* Estão acostumadas a viver em ambiente competitivo e acabam fazendo isso de tabela;
+    * Estão acostumadas a viver em ambiente competitivo e acabam fazendo isso de tabela;
 
-* Vivermos cercados pela "Vida de Instagram";
+    * Vivermos cercados pela "Vida de Instagram";
 
-* Outros motivos (inclua-os aqui);  
+    * Outros motivos (inclua-os aqui);  
 
 
 Essa série de fatores, atrelada a pressão social, econômica e política que sofremos, provoca uma sensação de fraude. É como se, a qualquer momento, nossa máscara fosse cair (Rubel ilustrou muito bem isso em [Mascarados](https://www.youtube.com/watch?v=NoyEKIw2-0g)). 
@@ -41,15 +39,15 @@ Essas informações expressam, acima de tudo, que mulheres são o público alvo 
 
 E como é possível resolver isso? A resposta pode não ser tão simples, e o processo muito menos, mas é possível.  
 
-+ Lembre-se: ninguém é perfeito e tudo mundo já se sentiu incapaz/insuficiente para algo. Recorde também que, se você chegou até onde está hoje, é porque batalhou para isso e que há gente que acredita no seu potencial;
+    + Lembre-se: ninguém é perfeito e tudo mundo já se sentiu incapaz/insuficiente para algo. Recorde também que, se você chegou até onde está hoje, é porque batalhou para isso e que há gente que acredita no seu potencial;
 
-+ Estamos em constante aprendizado. O que é difícil para você hoje, pode se tornar extremamente fácil daqui um tempo. Prática requer treino ;)   
+    + Estamos em constante aprendizado. O que é difícil para você hoje, pode se tornar extremamente fácil daqui um tempo. Prática requer treino ;)   
 
-+ Se valorizar é importante sim! Então, nunca se esqueça de todas as dificuldades enfrentadas por ti e repasse suas conquistas mentalmente. Se for preciso, faça uma lista delas, por mais bobo que pareça. Isso vai te ajudar a calar aquela vozinha mencionada lá em cima, que tenta dizer que você não é capaz;  
+    + Se valorizar é importante sim! Então, nunca se esqueça de todas as dificuldades enfrentadas por ti e repasse suas conquistas mentalmente. Se for preciso, faça uma lista delas, por mais bobo que pareça. Isso vai te ajudar a calar aquela vozinha mencionada lá em cima, que tenta dizer que você não é capaz;  
 
-+ Tenha pessoas que te amam do seu lado. Essa é a dica, na minha humilde opinião, a dica mais importante. Esses seres vão estar do seu lado para te ajudar a lembrar o quão importante e incrível você é. Mantenha-os perto!  
+    + Tenha pessoas que te amam do seu lado. Essa é a dica, na minha humilde opinião, a dica mais importante. Esses seres vão estar do seu lado para te ajudar a lembrar o quão importante e incrível você é. Mantenha-os perto!  
 
-+ Terapia é importante. Eu sempre digo que, se os sete (já não mais) bilhões de pessoas existentes no planeta fizessem, nossa convivência seria muito melhor. Acredite, é maravilhoso poder se abrir com alguém que está ali só e para ouvir você, e que não irá usar isso contra ti ou tentará te manipular a partir do que foi dito. 
+    + Terapia é importante. Eu sempre digo que, se os sete (já não mais) bilhões de pessoas existentes no planeta fizessem, nossa convivência seria muito melhor. Acredite, é maravilhoso poder se abrir com alguém que está ali só e para ouvir você, e que não irá usar isso contra ti ou tentará te manipular a partir do que foi dito. 
 
 Se cuidem! E confiem em si mesmos: tenho certeza que cada pessoinha que passou os olhos por essas palavras é um ser especial e capaz de fazer coisas incríveis.
 
