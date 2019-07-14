@@ -39,15 +39,15 @@ Essas informações expressam, acima de tudo, que mulheres são o público alvo 
 
 E como é possível resolver isso? A resposta pode não ser tão simples, e o processo muito menos, mas é possível.  
 
-    + Lembre-se: ninguém é perfeito e tudo mundo já se sentiu incapaz/insuficiente para algo. Recorde também que, se você chegou até onde está hoje, é porque batalhou para isso e que há gente que acredita no seu potencial;
+    * Lembre-se: ninguém é perfeito e tudo mundo já se sentiu incapaz/insuficiente para algo. Recorde também que, se você chegou até onde está hoje, é porque batalhou para isso e que há gente que acredita no seu potencial;
 
-    + Estamos em constante aprendizado. O que é difícil para você hoje, pode se tornar extremamente fácil daqui um tempo. Prática requer treino ;)   
+    * Estamos em constante aprendizado. O que é difícil para você hoje, pode se tornar extremamente fácil daqui um tempo. Prática requer treino ;)   
 
-    + Se valorizar é importante sim! Então, nunca se esqueça de todas as dificuldades enfrentadas por ti e repasse suas conquistas mentalmente. Se for preciso, faça uma lista delas, por mais bobo que pareça. Isso vai te ajudar a calar aquela vozinha mencionada lá em cima, que tenta dizer que você não é capaz;  
+    * Se valorizar é importante sim! Então, nunca se esqueça de todas as dificuldades enfrentadas por ti e repasse suas conquistas mentalmente. Se for preciso, faça uma lista delas, por mais bobo que pareça. Isso vai te ajudar a calar aquela vozinha mencionada lá em cima, que tenta dizer que você não é capaz;  
 
-    + Tenha pessoas que te amam do seu lado. Essa é a dica, na minha humilde opinião, a dica mais importante. Esses seres vão estar do seu lado para te ajudar a lembrar o quão importante e incrível você é. Mantenha-os perto!  
+    * Tenha pessoas que te amam do seu lado. Essa é a dica, na minha humilde opinião, a dica mais importante. Esses seres vão estar do seu lado para te ajudar a lembrar o quão importante e incrível você é. Mantenha-os perto!  
 
-    + Terapia é importante. Eu sempre digo que, se os sete (já não mais) bilhões de pessoas existentes no planeta fizessem, nossa convivência seria muito melhor. Acredite, é maravilhoso poder se abrir com alguém que está ali só e para ouvir você, e que não irá usar isso contra ti ou tentará te manipular a partir do que foi dito. 
+    * Terapia é importante. Eu sempre digo que, se os sete (já não mais) bilhões de pessoas existentes no planeta fizessem, nossa convivência seria muito melhor. Acredite, é maravilhoso poder se abrir com alguém que está ali só e para ouvir você, e que não irá usar isso contra ti ou tentará te manipular a partir do que foi dito. 
 
 Se cuidem! E confiem em si mesmos: tenho certeza que cada pessoinha que passou os olhos por essas palavras é um ser especial e capaz de fazer coisas incríveis.
 
