@@ -14,7 +14,7 @@ Você já deve ter se feito essa pergunta: *Como um momento mudou tanto a sua vi
 
 Sou graduanda em Ciência da Computação, estudante de iniciação científica no INPE e trabalho na Dataside, uma consultoria de banco de dados. Na época só estava no INPE, e isso significa que meu salário se resumia uma bolsa no valor de **400,00 reais**. Também pode se resumir em: *"Você não vai na Python Brasil, Letícia"*, ou *"Não é esse ano que o sonho vai rolar :/ "* . Meus pais também não tinham condições de pagar a viagem para mim, e eu já estava começando a desistir.
 
-Foi quando a [**Campanha do PyLadies na Python Brasil**](bit.ly/campanhapyladies15) surgiu na minha vida. Eu não sabia muito sobre, mas resolvi me inscrever e entregar as respostas mais inteiras e sinceras possíveis no formulário. Minha inscrição foi feita no último dia que o formulário estava aberto, e preenchê-lo foi como tomar uma decisão muito importante. 
+Foi quando a [Campanha do PyLadies na Python Brasil](bit.ly/campanhapyladies15) surgiu na minha vida. Eu não sabia muito sobre, mas resolvi me inscrever e entregar as respostas mais inteiras e sinceras possíveis no formulário. Minha inscrição foi feita no último dia que o formulário estava aberto, e preenchê-lo foi como tomar uma decisão muito importante. 
 
 Passado um tempo, recebi um email. Descobri que eu havia sido uma das "selecionadas" para a Campanha, e que conforme o financiamento rolasse, eu poderia "estar dentro ou não", pois a campanha funciona a base de contribuições financeiras, onde os contribuidores recebem uma recompensa em troca, como forma de agradecimento.
 
@@ -51,26 +51,31 @@ E eu fui pro evento que era, literalmente, dos meus sonhos. Lá eu tive contato 
 
 * Arrastei a [**Ingrid**](https://twitter.com/senaingrid90) para a Python Brasil comigo, porque ela é minha mãe de comunidades e queria que vivêssemos esse momento 'juntas & shallow now';
 * Fui tutora no Django Girls Natal e vi cada história lindaaaa, teve mentorada minha sendo tutora em outros DG's e eu fiquei orgulhosa demais, pense;
-<div style="text-align:center"><img src="img/DG_Natal.jpg"/></div>
+<div style="text-align:center"><img src="img/DG_Natal.jpg"/></div>  
 
-* Fomos um dia pra praia e tinham mais de 70 pessoas num único quiosque (esse dia foi louco!);
 
-* Quebrei o pé, pra variar, e estrear minha primeira PyBR com estilo. Agradecimento especial ao [Ramiro](https://twitter.com/ramiroluz) e o [**Gabriel**](https://twitter.como/ogabrielluiz) que foram os anjos que cuidaram de mim e empurraram minha cadeira no aeroporto (essa é a história mais engraçada que eu posso te contar. É sério);
-<div style="text-align:center"><img src="img/Aeroporto.jpg" /></div>
+* Fomos um dia pra praia e tinham mais de 70 pessoas num único quiosque (esse dia foi louco!);  
 
-* Depois disso, fui chamada para várias palestrinhas (e também submeti outras), e comecei a espalhar a palavra da comunidade por outros estados;
+
+* Quebrei o pé, pra variar, e estrear minha primeira PyBR com estilo. Agradecimento especial ao [Ramiro](https://twitter.com/ramiroluz) e o [**Gabriel**](https://twitter.como/ogabrielluiz) que foram os anjos que cuidaram de mim e empurraram minha cadeira no aeroporto (essa é a história mais engraçada que eu posso te contar. É sério);  
+
+<div style="text-align:center"><img src="img/Aeroporto.jpg" /></div>  
+
+* Depois disso, fui chamada para várias palestrinhas (e também submeti outras), e comecei a espalhar a palavra da comunidade por outros estados;    
+
 <div style="text-align:center"><img src="img/Capiconf.jpg" /></div>   
 
-* Pude ver os alunos dos IF's aprendendo a programar em Python na conferência e essa foi uma das coisas mais lindas do mundo;
+* Pude ver os alunos dos IF's aprendendo a programar em Python na conferência e essa foi uma das coisas mais lindas do mundo;  
 
-* Abracei muito a dona [**Aninha**](https://twitter.com/ananoterminal) que é somente o amor da minha vida todinha (e também é do Colaboradados, YAY);
-<div style="text-align:center"><img src="img/Aninha_e_eu.jpg"/></div>
+* Abracei muito a dona [**Aninha**](https://twitter.com/ananoterminal) que é somente o amor da minha vida todinha (e também é do Colaboradados, YAY);  
+
+<div style="text-align:center"><img src="img/Aninha_e_eu.jpg"/></div>  
 
 * Fiquei hospedada na casa e tive a honra de estar na presença da dona da porr* toda [**Debora Azevedo**](https://twitter.com/pydebb);
-<div style="text-align:center"><img src="img/juntas.jpg"/></div>
+<div style="text-align:center"><img src="img/juntas.jpg"/></div>  
 
-* Vivi altas aventuras com a minha princesa [**Carol**](https://twitter.com/_caaddss). Foi tão importante ter ela na PyBR comigo que nem sei;
-
+* Vivi altas aventuras com a minha princesa [**Carol**](https://twitter.com/_caaddss). Foi tão importante ter ela na PyBR comigo que nem sei;  
+ </p>
 * Fora os milhares de acontecimentos que rolaram entre ter feito amizades que duram até hoje, ensinar uma gringa (saudades, Winnie <3) a dançar funk, rastar a chinela em alguns forrós por terras nataenses e comer o melhor cuscuz desse Brasil todinho.
 <div style="text-align:center"><img src="img/Risada.jpg"/></div>
 
