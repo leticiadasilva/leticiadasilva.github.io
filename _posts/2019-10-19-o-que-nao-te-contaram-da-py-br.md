@@ -61,7 +61,10 @@ E eu fui pro evento que era, literalmente, dos meus sonhos. Lá eu tive contato 
 
 * Quebrei o pé, pra variar, e estrear minha primeira PyBR com estilo. Agradecimento especial ao [Ramiro](https://twitter.com/ramiroluz) e o [Gabriel](https://twitter.como/ogabrielluiz) que foram os anjos que cuidaram de mim e empurraram minha cadeira no aeroporto (essa é a história mais engraçada que eu posso te contar. É sério);
 
-![Aeroporto](img/Aeroporto.jpg?style=centerme )
+<div style="text-align:center"><img src="img/Aeroporto.jpg" /></div>
+
+
+![Aeroporto](img/Aeroporto.jpg)
 
 * Depois disso, fui chamada para várias palestrinhas (e também submeti outras), e comecei a espalhar a palavra da comunidade por outros estados;
 
