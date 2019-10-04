@@ -49,11 +49,11 @@ E eu fui pro evento que era, literalmente, dos meus sonhos. Lá eu tive contato 
 
 * Conheci um monte de PyLadies MARAVILHOSAS (eu precisava de um tópico só pra exaltar essas maravilhosidades mesmo, desculpa);
 
-<div style="text-align:center"><img src="img/PyLadies_oficial"/></div>
+<div style="text-align:center"><img src="img/PyLadies_oficial.jpg"/></div>
 
 * Conheci outras pessoas sensacionais também ♥;
 
-<div style="text-align:center"><img src="Foto_oficial.jpg"/></div>
+<div style="text-align:center"><img src="foto_oficial.jpg"/></div>
 
 * Fomos um dia pra praia e tinham mais de 70 pessoas num único quiosque (esse dia foi louco!);
 
@@ -65,7 +65,6 @@ E eu fui pro evento que era, literalmente, dos meus sonhos. Lá eu tive contato 
 * Quebrei o pé, pra variar, e estrear minha primeira PyBR com estilo. Agradecimento especial ao [Ramiro](https://twitter.com/ramiroluz) e o [Gabriel](https://twitter.como/ogabrielluiz) que foram os anjos que cuidaram de mim e empurraram minha cadeira no aeroporto (essa é a história mais engraçada que eu posso te contar. É sério);
 
 <div style="text-align:center"><img src="img/Aeroporto.jpg" /></div>
-
 
 * Depois disso, fui chamada para várias palestrinhas (e também submeti outras), e comecei a espalhar a palavra da comunidade por outros estados;
 
