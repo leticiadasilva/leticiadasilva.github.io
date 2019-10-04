@@ -26,7 +26,9 @@ E tiveram outras surpresas no caminho:
 * Só estaria presente NO MAIOR ENCONTRO da comunidade Python da América Latina; 
 * Fui aprovada para palestrar na PyLadies BR Conf[1], a primeira conferência nacional (e internacional também, bjs) de PyLadies do Brasil;
 
-![ConPyLadiesConf_1](img/PyLadiesConf_1.jpg)
+
+<div style="text-align:center"><img src="img/PyLadiesConf_1.jpg"/></div>
+
 
 * A palestra era sobre a área que trabalho atualmente e amo muito (Ciência de Dados é amor sim <3);
 * Estaria num estado que nunca fui (e ainda seria no nordeste e teria praia, que é melhor ainda);
@@ -37,56 +39,57 @@ E eu fui pro evento que era, literalmente, dos meus sonhos. Lá eu tive contato 
 
 * Encontrei o [Masanori](https://twitter.com/fmasanori) mais uma vez em outro estado (é engraçado porque moramos na mesma cidade, mas sempre nos encontramos em eventos fora daqui. Eu adoro, porque é motivo pra poder viajar mais, né);
 
-![Masanori](img/Masanori_e_eu.jpg)
+
+<div style="text-align:center"><img src="img/Masanori_e_eu.jpg"/></div>
 
 
 * Conheci a [Judite Cypreste](https://twitter.com/juditecypreste), que era uma das pessoas que eu tinha mais vontade de conversar nessa vida. Era tanta admiração e amor por essa mulher (e ela por mim, mas essa parte não caiu a ficha até agora), que viramos melhores amigas em 2 segundos e hoje participamos de um projeto juntas (e com outras pessoas também!), o [Colaboradados](www.colaboradados.com.br), e temos o [Coluna7](http://colaboradados.com.br/podcast.html), um podcast sobre Jornalismo de Dados e Ciência de Dados para qualquer um que tenha curiosidade em aprender esses tópicos;
 
-![Judite e eu](img/Judite_e_eu.jpg)
+<div style="text-align:center"><img src="img/Judite_e_eu.jpg"/></div>
 
 * Conheci um monte de PyLadies MARAVILHOSAS (eu precisava de um tópico só pra exaltar essas maravilhosidades mesmo, desculpa);
 
-![PyLadies](img/PyLadies_oficial)
+<div style="text-align:center"><img src="img/PyLadies_oficial"/></div>
 
 * Conheci outras pessoas sensacionais também ♥;
 
-![Foto_oficial](Foto_oficial.jpg)
+<div style="text-align:center"><img src="Foto_oficial.jpg"/></div>
 
 * Fomos um dia pra praia e tinham mais de 70 pessoas num único quiosque (esse dia foi louco!);
 
 * Arrastei a [Ingrid](https://twitter.com/senaingrid90) para a Python Brasil comigo, porque ela é minha mãe de comunidades e queria que vivêssemos esse momento 'juntas & shallow now';
 * Fui tutora no Django Girls Natal e vi cada história lindaaaa, teve mentorada minha sendo tutora em outros DG's e eu fiquei orgulhosa demais, pense;
 
-![Django Girls Natal](img/DG_Natal.jpg)
+<div style="text-align:center"><img src="img/DG_Natal.jpg"/></div>
 
 * Quebrei o pé, pra variar, e estrear minha primeira PyBR com estilo. Agradecimento especial ao [Ramiro](https://twitter.com/ramiroluz) e o [Gabriel](https://twitter.como/ogabrielluiz) que foram os anjos que cuidaram de mim e empurraram minha cadeira no aeroporto (essa é a história mais engraçada que eu posso te contar. É sério);
 
 <div style="text-align:center"><img src="img/Aeroporto.jpg" /></div>
 
 
-![Aeroporto](img/Aeroporto.jpg)
-
 * Depois disso, fui chamada para várias palestrinhas (e também submeti outras), e comecei a espalhar a palavra da comunidade por outros estados;
+
+<div style="text-align:center"><img src="Capiconf.jpg"/></div>
 
 * Pude ver os alunos dos IF's aprendendo a programar em Python na conferência e essa foi uma das coisas mais lindas do mundo;
 
 * Abracei muito a dona [Aninha](https://twitter.com/ananoterminal) que é somente o amor da minha vida todinha (e também é do Colaboradados, YAY);
 
-![Aninha e eu](img/Aninha_e_eu.jpg)
+<div style="text-align:center"><img src="img/Aninha_e_eu.jpg"/></div>
 
 * Fiquei hospedada na casa e tive a honra de estar na presença da dona da porr* toda [Debora Azevedo](https://twitter.com/pydebb);
 
-![Juntas](img/Juntas.jpg)
+<div style="text-align:center"><img src="img/Juntas.jpg"/></div>
 
 * Vivi altas aventuras com a minha princesa [Carol](https://twitter.com/_caaddss). Foi tão importante ter ela na PyBR comigo que nem sei;
 
 * Fora os milhares de acontecimentos que rolaram entre ter feito amizades que duram até hoje, ensinar uma gringa (saudades, Winnie <3) a dançar funk, rastar a chinela em alguns forrós por terras nataenses e comer o melhor cuscuz desse Brasil todinho.
 
-![Risada](img/Risada.jpg)
+<div style="text-align:center"><img src="img/Risada.jpg"/></div>
 
 O meu imenso obrigada a comunidade, a todas as pessoas que contribuíram no Catarse e, principalmente, a todas as mulheres que organizaram essa campanha! Eu nunca estaria tão conectada, conheceria tanta gente e transbordaria de amor por essa comunidade tão linda se não fosse por vocês!
 
-![Abraço](img/Abraço.jpg)
+<div style="text-align:center"><img src="img/Abraço.jpg"/></div>
 
 E pra você que chegou até aqui, vou te dar uma notícia: hoje é o último dia para contribuir na [Campanha do PyLadies na Python Brasil[15]](bit.ly/campanhapyladies15), e você pode ajudar! Contribua para que mais histórias como essa (sem a parte do pé quebrado, por favor) aconteçam :)
 
