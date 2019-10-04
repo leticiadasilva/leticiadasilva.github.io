@@ -53,7 +53,7 @@ E eu fui pro evento que era, literalmente, dos meus sonhos. Lá eu tive contato 
 
 * Conheci outras pessoas sensacionais também ♥;
 
-<div style="text-align:center"><img src="foto_oficial.jpg"/></div>
+<div style="text-align:center"><img src="img/foto_oficial.jpg"/></div>
 
 * Fomos um dia pra praia e tinham mais de 70 pessoas num único quiosque (esse dia foi louco!);
 
@@ -68,7 +68,7 @@ E eu fui pro evento que era, literalmente, dos meus sonhos. Lá eu tive contato 
 
 * Depois disso, fui chamada para várias palestrinhas (e também submeti outras), e comecei a espalhar a palavra da comunidade por outros estados;
 
-<div style="text-align:center"><img src="Capiconf.jpg"/></div>
+<div style="text-align:center"><img src="img/Capiconf.jpg"/></div>
 
 * Pude ver os alunos dos IF's aprendendo a programar em Python na conferência e essa foi uma das coisas mais lindas do mundo;
 
@@ -78,7 +78,7 @@ E eu fui pro evento que era, literalmente, dos meus sonhos. Lá eu tive contato 
 
 * Fiquei hospedada na casa e tive a honra de estar na presença da dona da porr* toda [Debora Azevedo](https://twitter.com/pydebb);
 
-<div style="text-align:center"><img src="img/Juntas.jpg"/></div>
+<div style="text-align:center"><img src="img/juntas.jpg"/></div>
 
 * Vivi altas aventuras com a minha princesa [Carol](https://twitter.com/_caaddss). Foi tão importante ter ela na PyBR comigo que nem sei;
 
