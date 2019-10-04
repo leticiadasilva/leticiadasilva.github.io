@@ -3,8 +3,8 @@ title:  "O que não te contaram da Python Brasil"
 subtitle: "Depoimentos"
 author: "Letícia Silva"
 avatar: "img/authors/leticia.jpg"
-image: ".jpg"
-date:   2019-10-03  15:42:00
+image: "img/Risos.jpg"
+date:   2019-10-03 15:42:00
 ---
 
 **Como um evento mudou a minha vida?**
@@ -61,7 +61,7 @@ E eu fui pro evento que era, literalmente, dos meus sonhos. Lá eu tive contato 
 
 * Quebrei o pé, pra variar, e estrear minha primeira PyBR com estilo. Agradecimento especial ao [Ramiro](https://twitter.com/ramiroluz) e o [Gabriel](https://twitter.como/ogabrielluiz) que foram os anjos que cuidaram de mim e empurraram minha cadeira no aeroporto (essa é a história mais engraçada que eu posso te contar. É sério);
 
-![Aeroporto](img/Aeroporto.jpg)
+![Aeroporto](img/Aeroporto.jpg?style=centerme )
 
 * Depois disso, fui chamada para várias palestrinhas (e também submeti outras), e comecei a espalhar a palavra da comunidade por outros estados;
 
