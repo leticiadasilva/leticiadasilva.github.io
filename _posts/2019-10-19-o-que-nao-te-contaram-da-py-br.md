@@ -26,7 +26,7 @@ E tiveram outras surpresas no caminho:
 * Só estaria presente NO MAIOR ENCONTRO da comunidade Python da América Latina; 
 * Fui aprovada para palestrar na PyLadies BR Conf[1], a primeira conferência nacional (e internacional também, bjs) de PyLadies do Brasil;
 
-![Conf](img/PyLadiesConf_1.jpg)
+![ConPyLadiesConf_1](img/PyLadiesConf_1.jpg)
 
 * A palestra era sobre a área que trabalho atualmente e amo muito (Ciência de Dados é amor sim <3);
 * Estaria num estado que nunca fui (e ainda seria no nordeste e teria praia, que é melhor ainda);
@@ -50,7 +50,7 @@ E eu fui pro evento que era, literalmente, dos meus sonhos. Lá eu tive contato 
 
 * Conheci outras pessoas sensacionais também ♥;
 
-![Foto oficial](Foto_oficial.jpg)
+![Foto_oficial](Foto_oficial.jpg)
 
 * Fomos um dia pra praia e tinham mais de 70 pessoas num único quiosque (esse dia foi louco!);
 
