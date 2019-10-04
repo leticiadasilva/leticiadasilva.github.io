@@ -52,8 +52,8 @@ E eu fui pro evento que era, literalmente, dos meus sonhos. Lá eu tive contato 
 * Fui tutora no Django Girls Natal e vi cada história lindaaaa, teve mentorada minha sendo tutora em outros DG's e eu fiquei orgulhosa demais, pense;
 <div style="text-align:center"><img src="img/DG_Natal.jpg"/></div>  
 
-
-* Fomos um dia pra praia e tinham mais de 70 pessoas num único quiosque (esse dia foi louco!);       
+<p>
+* Fomos um dia pra praia e tinham mais de 70 pessoas num único quiosque (esse dia foi louco!);  </p>     
 
 
 
