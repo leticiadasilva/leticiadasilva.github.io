@@ -11,11 +11,9 @@ date:   2019-10-03 15:42:00
 
 Você já deve ter se feito essa pergunta: *Como um momento mudou tanto a sua vida, que você não se lembra de como ela era antes disso ter acontecido?* É esse o sentimento que tenho quando lembro da Python Brasil. E vou te contar o porquê.
 
-{c:##FF4040}teste{/c}
-
 Sou graduanda em Ciência da Computação, estudante de iniciação científica no INPE e trabalho na Dataside, uma consultoria de banco de dados. Na época só estava no INPE, e isso significa que meu salário se resumia uma bolsa no valor de **400,00 reais**. Também pode se resumir em: *"Você não vai na Python Brasil, Letícia"*, ou *"Não é esse ano que o sonho vai rolar :/ "* . Meus pais também não tinham condições de pagar a viagem para mim, e eu já estava começando a desistir.
 
-Foi quando a {c:##FF4040}[Campanha do PyLadies na Python Brasil](bit.ly/campanhapyladies15){/c} surgiu na minha vida. Eu não sabia muito sobre, mas resolvi me inscrever e entregar as respostas mais inteiras e sinceras possíveis no formulário. Minha inscrição foi feita no último dia que o formulário estava aberto, e preenchê-lo foi como tomar uma decisão muito importante. 
+Foi quando a <span style="color:#FF4040">[Campanha do PyLadies na Python Brasil](bit.ly/campanhapyladies15)</span> surgiu na minha vida. Eu não sabia muito sobre, mas resolvi me inscrever e entregar as respostas mais inteiras e sinceras possíveis no formulário. Minha inscrição foi feita no último dia que o formulário estava aberto, e preenchê-lo foi como tomar uma decisão muito importante. 
 
 Passado um tempo, recebi um email. Descobri que eu havia sido uma das "selecionadas" para a Campanha, e que conforme o financiamento rolasse, eu poderia "estar dentro ou não", pois a campanha funciona a base de contribuições financeiras, onde os contribuidores recebem uma recompensa em troca, como forma de agradecimento.
 
