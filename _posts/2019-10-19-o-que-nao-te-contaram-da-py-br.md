@@ -59,7 +59,7 @@ E eu fui pro evento que era, literalmente, dos meus sonhos. Lá eu tive contato 
 <div style="text-align:center"><img src="img/Aeroporto.jpg" /></div>
 
 * Depois disso, fui chamada para várias palestrinhas (e também submeti outras), e comecei a espalhar a palavra da comunidade por outros estados;
-<div style="text-align:center"><img src="img/Capiconf.jpg" /></div>
+<div style="text-align:center"><img src="img/Capiconf.jpg" /></div>   
 
 * Pude ver os alunos dos IF's aprendendo a programar em Python na conferência e essa foi uma das coisas mais lindas do mundo;
 
