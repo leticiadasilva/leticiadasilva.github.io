@@ -3,7 +3,7 @@ title:  "Permitir-se"
 subtitle: "Pensamentos"
 author: "Letícia Silva"
 avatar: "img/authors/leticia.jpg"
-image: "img/solidao.jpg"
+image: "img/Solidao.jpg"
 date:   2020-02-08 22:00:00
 ---
 

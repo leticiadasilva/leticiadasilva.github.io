@@ -1,0 +1,9 @@
+Eu sempre tive dificuldade de me relacionar amorosamente com as pessoas. Ora porque não me achava boa o bastante, ora porque me sentia feia/gorda/burra. Eu nunca acreditei ser o suficiente para alguém, mesmo me esforçando muito pra isso.    
+
+Nunca namorei, mas tive uns "rolos" durante a vida. No meu primeiro relacionamento, eu fazia de tudo para mostrar que estava ali, presente, pro cara. Em 90% do tempo me sentia mais sendo usada ou bancando a psicóloga do que qualquer outra coisa, mas me mantive ali, firme. Mesmo quando sabia que ele ficava com outras garotas e contava isso na minha frente, tentava forçar situações ou fazia drama quando eu reclamava de algo que estava errado. Passei dois anos do lado desse cara, pois achava que ele precisava da minha ajuda. Hoje eu vejo que ele precisa sim, mas de um psicólogo, da família e de si próprio. E foi aqui que eu comecei a querer salvar as pessoas.
+
+Todos os outros foram do mesmo jeito: eu me envolvia com quem queria nada com nada, fosse na vida ou fosse comigo (sim, parece que eu atraio esse tipo de gente), e sempre ficava do lado da pessoa escutando, me preocupando e tentando ajudá-la. Tiveram longas pausas durante esse tempo, ora porque eu não aguentava mais lidar com estava 100% nem aí comigo, ora porque estava cansada de tanta "sorte". Sofrer dói, mas não disseram que podia ser tanto. E foi tanta decepção, uma atrás da outra, que eu desisti. Não do amor, mas dele dar certo pra mim.
+
+Houveram pessoas boas nesse processo. Pessoas que eu não era boa o suficiente para elas naquele momento. E eu sinto muito por isso, por tê-las magoado de alguma forma. Sempre que encontrava alguém "incrível demais", ironicamente estava desgraçada da cabeça por outro ser. 
+
+"Você não pode deixar um mecanismo de defesa virar uma armadura. Você merece uma conexão real na sua vida."
